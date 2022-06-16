@@ -9,7 +9,8 @@ export default styles = StyleSheet.create({
     padding: 10,
     alignItems: 'center',
     justifyContent: 'center',
-    marginBottom: 40
+    marginVertical: 40,
+    marginLeft: 50,
   },
 
   title:{
